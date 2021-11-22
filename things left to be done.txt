@@ -1,0 +1,4 @@
+fix king logic
+   * mandate shielding characters to remain in position
+   * accuracy in danger zones
+checkmate logic
